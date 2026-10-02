@@ -1,0 +1,6 @@
+2026/10/02-19:27:53.552 4e9c Reusing MANIFEST C:\EZNOWET\my-app\.edge_home_preview_long\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/10/02-19:27:53.553 4e9c Recovering log #7
+2026/10/02-19:27:53.554 4e9c Reusing old log C:\EZNOWET\my-app\.edge_home_preview_long\Default\EdgeCoupons/coupons_data.db/000007.log 
+2026/10/02-19:28:03.837 5ca8 Level-0 table #11: started
+2026/10/02-19:28:03.845 5ca8 Level-0 table #11: 683467 bytes OK
+2026/10/02-19:28:03.850 5ca8 Delete type=0 #7

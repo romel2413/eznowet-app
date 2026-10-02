@@ -1,0 +1,5 @@
+2026/10/02-19:38:04.094 4674 Creating DB C:\EZNOWET\my-app\.edge_home_preview_8708\Default\EdgeCoupons/coupons_data.db since it was missing.
+2026/10/02-19:38:04.206 4674 Reusing MANIFEST C:\EZNOWET\my-app\.edge_home_preview_8708\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/10/02-19:38:25.608 51d0 Level-0 table #5: started
+2026/10/02-19:38:25.615 51d0 Level-0 table #5: 683284 bytes OK
+2026/10/02-19:38:25.620 51d0 Delete type=0 #3

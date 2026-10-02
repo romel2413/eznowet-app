@@ -1,0 +1,40 @@
+2026-10-02 11:21:49.538: [INFO] CurrentProfilePath: C:\EZNOWET\my-app\.edge_home_preview_long\Default
+2026-10-02 11:21:49.538: [INFO] Profiles total count: 1
+2026-10-02 11:21:49.538: [INFO] Profile: name=Profile 1 path=C:\EZNOWET\my-app\.edge_home_preview_long\Default lastActive=2026-10-02T11:21:49.517Z
+2026-10-02 11:21:49.538: [INFO] LastUsedProfileDir: C:\EZNOWET\my-app\.edge_home_preview_long\Default
+2026-10-02 11:21:49.538: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\EZNOWET\my-app\.edge_home_preview_long\Default lastActive=2026-10-02T11:21:49.517Z
+2026-10-02 11:21:49.538: [INFO] OnDoneLoading sync enabled: 0
+2026-10-02 11:21:49.538: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-02 11:21:49.538: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-02 11:21:49.538: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-02 11:21:49.603: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-10-02 11:21:49.738: [INFO] VisibilityChanged: 0
+2026-10-02 11:21:50.599: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-10-02 11:21:50.603: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-10-02 11:21:50.606: [INFO] Primary account changed.
+2026-10-02 11:21:50.606: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-10-02 11:21:50.615: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-10-02 11:22:03.577: [INFO] Sync initialization duration: 12868ms
+2026-10-02 11:22:53.519: [INFO] CurrentProfilePath: C:\EZNOWET\my-app\.edge_home_preview_long\Default
+2026-10-02 11:22:53.519: [INFO] Profiles total count: 1
+2026-10-02 11:22:53.519: [INFO] Profile: name=Personal path=C:\EZNOWET\my-app\.edge_home_preview_long\Default lastActive=2026-10-02T11:22:53.370Z
+2026-10-02 11:22:53.519: [INFO] LastUsedProfileDir: C:\EZNOWET\my-app\.edge_home_preview_long\Default
+2026-10-02 11:22:53.519: [INFO] MostRecentlyActiveProfile: name=Personal path=C:\EZNOWET\my-app\.edge_home_preview_long\Default lastActive=2026-10-02T11:22:53.370Z
+2026-10-02 11:22:53.519: [INFO] OnDoneLoading sync enabled: 1
+2026-10-02 11:22:53.519: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-02 11:22:53.519: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-02 11:22:53.519: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-02 11:22:53.822: [INFO] VisibilityChanged: 0
+2026-10-02 11:22:53.961: [INFO] Sync initialization duration: 14ms
+2026-10-02 11:23:20.489: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-02 11:27:51.336: [INFO] CurrentProfilePath: C:\EZNOWET\my-app\.edge_home_preview_long\Default
+2026-10-02 11:27:51.336: [INFO] Profiles total count: 1
+2026-10-02 11:27:51.339: [INFO] Profile: name=Personal path=C:\EZNOWET\my-app\.edge_home_preview_long\Default lastActive=2026-10-02T11:27:51.326Z
+2026-10-02 11:27:51.339: [INFO] LastUsedProfileDir: C:\EZNOWET\my-app\.edge_home_preview_long\Default
+2026-10-02 11:27:51.339: [INFO] MostRecentlyActiveProfile: name=Personal path=C:\EZNOWET\my-app\.edge_home_preview_long\Default lastActive=2026-10-02T11:27:51.326Z
+2026-10-02 11:27:51.339: [INFO] OnDoneLoading sync enabled: 1
+2026-10-02 11:27:51.339: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-02 11:27:51.339: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-02 11:27:51.339: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-02 11:27:51.387: [INFO] VisibilityChanged: 0
+2026-10-02 11:27:51.578: [INFO] Sync initialization duration: 23ms
